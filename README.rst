@@ -1,6 +1,11 @@
 =========
 ArxPy 0.3
 =========
+A Bit-Vector Differential Model for the Modular
+Addition by a Constant and its Applications to
+Differential and Impossible-Differential
+Cryptanalysis
+https://eprint.iacr.org/2022/512.pdf
 
 ArxPy is a python3 library to find XOR differential characteristics,
 rotational-XOR characteristics, and impossible differentials
